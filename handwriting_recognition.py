@@ -35,7 +35,7 @@ model.compile(optimizer='adam',
 model.summary()
 
 # Train the model
-epochs = 2
+epochs = 5
 history = model.fit(train_images, train_labels, epochs=epochs, validation_data=(test_images, test_labels))
 
 # Plot training results
