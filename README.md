@@ -15,7 +15,9 @@
 
 # Result:
 ![Screenshot 2025-03-26 120520](https://github.com/user-attachments/assets/debfb267-a733-47c6-9d88-c971c807b621)
+
 Model performance through graphical representation
 
 ![Screenshot 2025-03-26 120533](https://github.com/user-attachments/assets/b15a3822-1373-4b80-b113-5cb48f5c2459)
+
 The result is a trained model that recognizes the handwritten digits.
